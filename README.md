@@ -5,4 +5,5 @@ This module depends on this library:
 [JSON-RPC Server Framework](https://github.com/NISystemsEngineering/JSONRPC)
 
 And that one depends depends on this library:
-https://github.com/tannerblair/JSON-Support-for-LabVIEW
+
+[JSON support for LabVIEW](https://github.com/tannerblair/JSON-Support-for-LabVIEW)
